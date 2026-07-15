@@ -2,6 +2,11 @@
 
 MPV config featuring **uosc**, **thumbfast**, and **ArtCNN shaders**.
 
+## Installation
+```
+git clone https://github.com/kabosuneko/mpv-config ~/.config/mpv
+```
+
 ## Scripts
 
 - **[uosc](https://github.com/tomasklaen/uosc)** — Modern UI replacing the default OSC. Line timeline, top bar, volume controls, menus, heatmap…
